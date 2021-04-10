@@ -1,0 +1,4 @@
+# Bastille Jail Template for grafana
+#INCLUDE jschmidt3786/bastille_nginx
+PKG grafana7
+SYSRC grafana_enable="YES"
